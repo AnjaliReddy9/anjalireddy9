@@ -15,27 +15,27 @@ Mostly AI applications these days. Retrieval, agents, orchestration, and the eva
 
 ## Currently building
 
-> ### [Lumen](https://github.com/AnjaliEga/lumen)
+> ### [Lumen](https://github.com/AnjaliReddy9/lumen)
 > Natural language analytics that runs against real warehouses, not toy schemas. Semantic layer in YAML, schema-aware validation, ambiguity resolution before execution. Benchmarked on Spider, BIRD, and a 60-table public dataset.
 >
 > `Python` · `FastAPI` · `Postgres` · `DuckDB` · `Claude` · `Angular`
 
-> ### [Atlas](https://github.com/AnjaliEga/atlas)
+> ### [Atlas](https://github.com/AnjaliReddy9/atlas)
 > Enterprise search across Slack, Notion, Drive, and GitHub with permission-aware retrieval — users only see results they could see in the source system. Hybrid retrieval combining BM25, dense vectors, and cross-encoder reranking. Span-level citations.
 >
 > `Python` · `Tantivy` · `Qdrant` · `Cohere` · `Claude` · `Angular`
 
-> ### [Sentinel](https://github.com/AnjaliEga/sentinel)
+> ### [Sentinel](https://github.com/AnjaliReddy9/sentinel)
 > GitHub app for code review. Repo-aware context so it understands callers and related tests, not just the diff. Learns from accepted vs dismissed comments. Currently installed on [N] open-source projects.
 >
 > `Python` · `tree-sitter` · `Postgres` · `Qdrant`
 
-> ### [Conductor](https://github.com/AnjaliEga/conductor)
+> ### [Conductor](https://github.com/AnjaliReddy9/conductor)
 > Workflow engine for AI agents. Durable execution, deterministic replay, survives process restarts and pauses for human approval that may take days. Visual debugger shows token usage and cost per node.
 >
 > `Java` · `Spring Boot` · `Postgres` · `ClickHouse` · `Angular` · `ngx-graph`
 
-> ### [Echo](https://github.com/AnjaliEga/echo)
+> ### [Echo](https://github.com/AnjaliReddy9/echo)
 > Real-time voice assistant for sales calls. Sub-300ms transcription, live CRM lookups during the conversation, structured post-call summaries that sync back to Salesforce.
 >
 > `Python` · `WebRTC` · `Deepgram` · `Pyannote` · `GPT-4o realtime` · `Angular`
