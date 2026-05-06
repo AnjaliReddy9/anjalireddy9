@@ -1,6 +1,6 @@
 <h1>Anjali Ega</h1>
 
-<p><em>Software engineer · Frisco, TX · Five years in</em></p>
+<p><em>Software engineer · Dallas, TX · Five years in</em></p>
 
 Mostly AI applications these days. Retrieval, agents, orchestration, and the eval tooling around them.
 
