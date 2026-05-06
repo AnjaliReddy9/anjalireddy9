@@ -8,7 +8,7 @@ Mostly AI applications these days. Retrieval, agents, orchestration, and the eva
   <a href="https://linkedin.com/in/anjaliega"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" height="22"></a>
   <a href="https://twitter.com/anjaliega"><img src="https://img.shields.io/badge/X-1F2937?style=flat-square" alt="X" height="22"></a>
   <a href="https://anjali.dev"><img src="https://img.shields.io/badge/Writing-4A5568?style=flat-square" alt="Writing" height="22"></a>
-  <a href="mailto:anjali@example.com"><img src="https://img.shields.io/badge/Email-E63946?style=flat-square" alt="Email" height="22"></a>
+  <a href="mailto:anjalireddyega@gmail.com"><img src="https://img.shields.io/badge/Email-E63946?style=flat-square" alt="Email" height="22"></a>
 </p>
 
 ---
